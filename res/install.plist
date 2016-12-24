@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.204.81.181/client.ipa</string>
+					<string>http://111.204.81.181/ysj/ysj.ipa</string>
 				</dict>
 
 				<dict>
@@ -31,13 +31,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.u9time.hdyfz.dragon</string>
+				<string>com.ljsd.ysj.demo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>全民Rush</string>
+				<string>妖神记</string>
 			</dict>
 		</dict>
 	</array>
